@@ -8,7 +8,7 @@
 | <a name="requirement_http"></a> [http](#requirement\_http) | 3.4.3 |
 | <a name="requirement_local"></a> [local](#requirement\_local) | 2.5.1 |
 | <a name="requirement_null"></a> [null](#requirement\_null) | 3.2.2 |
-| <a name="requirement_time"></a> [time](#requirement\_time) | 0.12.0 |
+| <a name="requirement_time"></a> [time](#requirement\_time) | 0.12.1 |
 
 ## Providers
 
@@ -18,7 +18,7 @@
 | <a name="provider_http"></a> [http](#provider\_http) | 3.4.3 |
 | <a name="provider_local"></a> [local](#provider\_local) | 2.5.1 |
 | <a name="provider_null"></a> [null](#provider\_null) | 3.2.2 |
-| <a name="provider_time"></a> [time](#provider\_time) | 0.12.0 |
+| <a name="provider_time"></a> [time](#provider\_time) | 0.12.1 |
 
 ## Modules
 
@@ -35,7 +35,7 @@ No modules.
 | [aws_lambda_function.ip-plz](https://registry.terraform.io/providers/hashicorp/aws/5.59.0/docs/resources/lambda_function) | resource |
 | [local_file.checkout_git_repo](https://registry.terraform.io/providers/hashicorp/local/2.5.1/docs/resources/file) | resource |
 | [null_resource.checkout_and_build](https://registry.terraform.io/providers/hashicorp/null/3.2.2/docs/resources/resource) | resource |
-| [time_sleep.wait_60_seconds](https://registry.terraform.io/providers/hashicorp/time/0.12.0/docs/resources/sleep) | resource |
+| [time_sleep.wait_60_seconds](https://registry.terraform.io/providers/hashicorp/time/0.12.1/docs/resources/sleep) | resource |
 | [aws_iam_policy_document.lambda](https://registry.terraform.io/providers/hashicorp/aws/5.59.0/docs/data-sources/iam_policy_document) | data source |
 | [http_http.github_latest_release](https://registry.terraform.io/providers/hashicorp/http/3.4.3/docs/data-sources/http) | data source |
 
