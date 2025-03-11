@@ -4,13 +4,13 @@
 | Name | Version |
 |------|---------|
 | <a name="requirement_terraform"></a> [terraform](#requirement\_terraform) | >= 1.7.0 |
-| <a name="requirement_aws"></a> [aws](#requirement\_aws) | 5.59.0 |
+| <a name="requirement_aws"></a> [aws](#requirement\_aws) | 5.87.0 |
 
 ## Providers
 
 | Name | Version |
 |------|---------|
-| <a name="provider_aws"></a> [aws](#provider\_aws) | 5.59.0 |
+| <a name="provider_aws"></a> [aws](#provider\_aws) | 5.87.0 |
 
 ## Modules
 
@@ -20,16 +20,16 @@ No modules.
 
 | Name | Type |
 |------|------|
-| [aws_api_gateway_deployment.ip-plz_v1](https://registry.terraform.io/providers/hashicorp/aws/5.59.0/docs/resources/api_gateway_deployment) | resource |
-| [aws_api_gateway_integration.ip-plz](https://registry.terraform.io/providers/hashicorp/aws/5.59.0/docs/resources/api_gateway_integration) | resource |
-| [aws_api_gateway_method.ip-plz](https://registry.terraform.io/providers/hashicorp/aws/5.59.0/docs/resources/api_gateway_method) | resource |
-| [aws_api_gateway_method_settings.path_specific](https://registry.terraform.io/providers/hashicorp/aws/5.59.0/docs/resources/api_gateway_method_settings) | resource |
-| [aws_api_gateway_resource.ip-plz](https://registry.terraform.io/providers/hashicorp/aws/5.59.0/docs/resources/api_gateway_resource) | resource |
-| [aws_api_gateway_rest_api.ip-plz](https://registry.terraform.io/providers/hashicorp/aws/5.59.0/docs/resources/api_gateway_rest_api) | resource |
-| [aws_api_gateway_stage.ip-plz_v1](https://registry.terraform.io/providers/hashicorp/aws/5.59.0/docs/resources/api_gateway_stage) | resource |
-| [aws_lambda_permission.api_gateway_permission](https://registry.terraform.io/providers/hashicorp/aws/5.59.0/docs/resources/lambda_permission) | resource |
-| [aws_caller_identity.current](https://registry.terraform.io/providers/hashicorp/aws/5.59.0/docs/data-sources/caller_identity) | data source |
-| [aws_region.current](https://registry.terraform.io/providers/hashicorp/aws/5.59.0/docs/data-sources/region) | data source |
+| [aws_api_gateway_deployment.ip-plz_v1](https://registry.terraform.io/providers/hashicorp/aws/5.87.0/docs/resources/api_gateway_deployment) | resource |
+| [aws_api_gateway_integration.ip-plz](https://registry.terraform.io/providers/hashicorp/aws/5.87.0/docs/resources/api_gateway_integration) | resource |
+| [aws_api_gateway_method.ip-plz](https://registry.terraform.io/providers/hashicorp/aws/5.87.0/docs/resources/api_gateway_method) | resource |
+| [aws_api_gateway_method_settings.path_specific](https://registry.terraform.io/providers/hashicorp/aws/5.87.0/docs/resources/api_gateway_method_settings) | resource |
+| [aws_api_gateway_resource.ip-plz](https://registry.terraform.io/providers/hashicorp/aws/5.87.0/docs/resources/api_gateway_resource) | resource |
+| [aws_api_gateway_rest_api.ip-plz](https://registry.terraform.io/providers/hashicorp/aws/5.87.0/docs/resources/api_gateway_rest_api) | resource |
+| [aws_api_gateway_stage.ip-plz_v1](https://registry.terraform.io/providers/hashicorp/aws/5.87.0/docs/resources/api_gateway_stage) | resource |
+| [aws_lambda_permission.api_gateway_permission](https://registry.terraform.io/providers/hashicorp/aws/5.87.0/docs/resources/lambda_permission) | resource |
+| [aws_caller_identity.current](https://registry.terraform.io/providers/hashicorp/aws/5.87.0/docs/data-sources/caller_identity) | data source |
+| [aws_region.current](https://registry.terraform.io/providers/hashicorp/aws/5.87.0/docs/data-sources/region) | data source |
 
 ## Inputs
 
